@@ -1,4 +1,31 @@
-input {
-    font-size: 2em;
-    margin: 10px 1px 0;
-  }
+ div{
+  background-color: bisque;
+  text-align: center;
+  color: brown;
+  padding: 5px;
+}
+h1{
+  text-align: center;
+  color: brown;
+}
+input{
+  font-size: 2em;
+  margin: 10px 1px 0;
+}
+
+/* Random canvas circles */
+/* html{
+  width: 100%;
+  height: inherit;
+}
+canvas{
+  display: block;
+}
+body{
+  margin: 0;
+}
+button{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+} */
